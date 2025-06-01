@@ -3,7 +3,7 @@ package com.example.demo.service
 import com.example.demo.model.User
 import com.example.demo.repository.UserRepository
 import org.springframework.stereotype.Service
-
+//kotlin crud
 @Service
 class UserService(
     private val userRepository: UserRepository
